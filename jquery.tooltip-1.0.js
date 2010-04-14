@@ -1,3 +1,4 @@
+/* jquery.tooltip-1.0.js */
 {
     jQuery.fn.tooltip = function(options) {
         var settings = jQuery.extend({
