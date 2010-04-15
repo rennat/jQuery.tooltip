@@ -8,9 +8,7 @@ jquery.tooltip.js
     tannern gmail
 
 **links**
-    - http://www.tannern.com
-    
-    - http://js.tannern.com
+    - http://code.tannern.com/jquery.tooltip.html
     
     - http://github.com/rennat/jQuery.tooltip
     
